@@ -7,7 +7,7 @@
 		<dependency>
 			<groupId>com.weicoder</groupId>
 			<artifactId>dao</artifactId>
-			<version>3.5.6</version>
+			<version>3.6.1</version>
 </dependency>
 	</dependencies>
 </project>
